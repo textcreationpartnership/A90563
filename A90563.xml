@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Petition for the neighbourhood and leidges in Edinburgh, Cannongate, and suburbs, &amp;c.  against the brewers in and about the good town.</title>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90563</idno><idno type="EEBO-CITATION">45504501</idno>
+  <idno type="VID">171817</idno>
+  <idno type="EEBO-PROQUEST">2248533385</idno>
+  
+            <idno type="STC">Wing P1748A</idno>
+            <idno type="STC">ESTC R181706</idno>
+            <idno type="OCLC">45504501</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A90563)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 171817)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2593:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Petition for the neighbourhood and leidges in Edinburgh, Cannongate, and suburbs, &amp;c.  against the brewers in and about the good town.</title>
+               </titleStmt>
+               <extent>1 sheet (2 p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[Edinburgh :</pubPlace>
+                  <date>1700?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Date and place of publication suggested by Wing.</note>
+                  <note>Reproduction of original in: Sutro Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Ale --  Scotland --  Edinburgh --  Taxation --  Early works to 1800.</term>
+               <term type="topical_term">Brewers --  Scotland --  Edinburgh --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  Scotland --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="petition">
+            <pb n="1" facs="tcp:171817:1"/>
+            <head>PETITION <hi>For the Neighbourhood and Leidges in</hi> E<g ref="char:EOLhyphen"/>dinburgh, Cannongate, <hi>and Suburbs,</hi> &amp;c. Against The Brewers in, and about the Good Town.</head>
+            <p>MY Lords of Council and Session, unto your Lordships humbly means and shews, we your Lordships Servants <hi>Alexander Thomson, present Deacon-Conveener, and Thomas Dunlop present Deacon of the Chirurgions,</hi> &amp;c. for our selves, and in name and behalf of the haill remanent Deacons and In<g ref="char:EOLhyphen"/>corporations of <hi>Edinburgh;</hi> and als in name and behalf of the <hi>Merchants, Neighbourhood,</hi> and other Leidges residing in, or resorting to the good Town: That where we have Bills of Advocation and Suspension depending before your Lordships, against the four pennies of the Pint additional on Ale, in fa<g ref="char:EOLhyphen"/>vours of the Brewers, and upon a Bill in presence obtained a deliverance, re<g ref="char:EOLhyphen"/>commending to the Lord Ordinary to pass both Bills, in case we should in<g ref="char:EOLhyphen"/>struct that there were Processes depending against us, and Decreets pronoun<g ref="char:EOLhyphen"/>ced in the foresaid matter; and for proving whereof, we have produced a Declaration Signed by the Clerk of the Commissioners of Cess and Excise, wherein he declares that there are both Decreets pronounced, and Processes depending, in relation to the foresaid Imposition, against the Neighbour<g ref="char:EOLhyphen"/>hood.</p>
+            <p>Notwithstanding whereof, the Brewers have retarded the Passing or Ex<g ref="char:EOLhyphen"/>peding of our Advocation and Suspension, upon pretence the same cannot be swa done, in the Terms presented, but only at the instance of such persons, a<g ref="char:EOLhyphen"/>gainst whom these Decreets has been pronounced, or Processes intented.</p>
+            <p>The matter without either <hi>Arrogancy, Impert<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nency, or ill Symptoms,</hi> has been so fully reasoned in our several Bills, and the Brewers Answers by way of <hi>Banter</hi> thereto, that it is needless to trouble your Lordships with repetitions: The thing is founded upon clear Principles of Law, and the Neighbourhood is oppressed. It is a Charge of near 400 <hi>Merks</hi> daily and will continue so till the nixt Session of Parliament, unless your Lord<g ref="char:EOLhyphen"/>ships vindicat the Faith of our publick <hi>Laws,</hi> by allowing us the Benefit of the same, and which no Petition or publick Deliverance thereafter could Rescind <hi>parte inaudita;</hi> If publick <hi>Laws</hi> most be two times Read, and thereafter Reason<g ref="char:EOLhyphen"/>ed, Voted and Touched before Passing, then nothing can take away
+<pb n="2" facs="tcp:171817:2"/> these <hi>Laws,</hi> but two Readings Voting and Touching; If the Brewers Pe<g ref="char:EOLhyphen"/>tition and Deliverance be a publick Act, then it is neither twice Read nor Touched; if a privat Act, then it falls under the <hi>Act salvo Jure,</hi> and the <hi>Neighbour hood</hi> must be heard <hi>contra executionem,</hi> since there was never any Act did more directly toutch Property than this; Nor are the Neighbour-hood endeavouring to Invert the Form of Proces; The regular way of applying is by Bills of Advocation and Suspension, and they have so done. That there is a Charge, is too evident, since every particular Family and privat Person sensibly feels the same. They do not crave their Declarator may take effect summarly; it will be heard in due time, and it's hoped will Regulat the Price of <hi>Ale</hi> after the first of <hi>March,</hi> contrair to the Brewers design: Impo<g ref="char:EOLhyphen"/>sitions for Bridges and High-ways are necessar, because the Leidges are there<g ref="char:EOLhyphen"/>by Accommodat, and it were against sense to Quarrel the same whether there were Law or not therefore, but that the <hi>Ale</hi> should be both Dearer and worse than formerly, is Unaccountable. That the Act of Parliament founded on, was not under the Parliaments Consideration is obvious, because their Peti<g ref="char:EOLhyphen"/>tion relates to no Act of Parliament; and the Brewers <hi>Nota</hi> subjoyned thereto, relates to the Act of Parliament 1695, and not to that Act which we found upon in <hi>Anno</hi> 1696, hough neither were particularly under Consideration. The Neighbourhood does not in the least question the Power and Authority of the Parliament, but that they might have done the thing effectually: but be<g ref="char:EOLhyphen"/>cause it is not so done, nor was it ever heard, that <hi>a publick statutory Law</hi> was Rescinded by a privat Deliverance, where there is not so much as a <hi>non obstante</hi> adjected. The Lords of his Majesties Privy Council and Lords of Session, do indeed regulat Prices from time to time: but it can scarce be In<g ref="char:EOLhyphen"/>stanced, that ever they did raise the Prices by any Ordinance of theirs, though they have frequently Regulat and Reduced the same; and the price of Bear is indeed a good Argument for small, but not for dear Ale; for Servants and the meaner kind of persons, must be furnished.</p>
+            <p>The Brewers make a great noise, as if the Parliaments Power and Autho<g ref="char:EOLhyphen"/>rity were called in question. But under favour, the Neighbourhood do pay all due Respect to every Vote and Deliverance of Parliament; and are ready and willing, to hazard Life and Fortune for the support of his Majesty and Government, on all Occasions. But humbly conceive that the Brewers Pe<g ref="char:EOLhyphen"/>tition concerns neither, but only some particular persons who design to raise their own privat Interest, under the Notion of an Act of Parliament, and by Alarming the Neighbourhood with the Authority of the Parliament, to dare them from their just Clame▪ and whereupon the Neighbourhood, <hi>&amp;c.</hi> do cry to your Lordships for Shelter and Protection.</p>
+            <p>
+               <hi>May it therefore please your Lordships, to Ordain our Bills of Advo<g ref="char:EOLhyphen"/>cation and Suspension to be past and expede, without either Caution or Consignation, as the samen is already presented: and to recom<g ref="char:EOLhyphen"/>mend the same to the Lord Ordinary, to be so done with all dis<g ref="char:EOLhyphen"/>patch that your Petitioners may be no longer delayed or janked in this Matter: sinee the lest delay carries along a great and considera<g ref="char:EOLhyphen"/>ble Charge dayly upon the Neighbourhood. And your Petitioners shall ever pray.</hi>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
